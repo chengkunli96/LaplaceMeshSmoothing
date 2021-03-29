@@ -98,6 +98,7 @@ For spectral analysis, if you run `part4.py`, finnaly you will get as following.
 
 Besides, the picture below shows the results of the explicit Laplacian mesh smoothing.
 
-![smoothing by explicit laplace](https://user-images.githubusercontent.com/22772725/112777319-d0781b80-9039-11eb-8903-7057e9cd96bd.png)
+![smoothing by explicit laplace](https://user-images.githubusercontent.com/22772725/112777555-70ce4000-903a-11eb-8f82-f2b5969831d4.png)
+
 
 
