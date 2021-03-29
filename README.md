@@ -93,8 +93,11 @@ python part5.py --obj fandisk_ns.obj --step_size 1e-5 --iteration 50
 
 ## Some samples
 For spectral analysis, if you run `part4.py`, finnaly you will get as following.
+
 ![spectral analysis](https://user-images.githubusercontent.com/22772725/112777180-6a8b9400-9039-11eb-8096-3589c6f0b031.png)
+
 Besides, the picture below shows the results of the explicit Laplacian mesh smoothing.
+
 ![smoothing by explicit laplace](https://user-images.githubusercontent.com/22772725/112777319-d0781b80-9039-11eb-8903-7057e9cd96bd.png)
 
 
