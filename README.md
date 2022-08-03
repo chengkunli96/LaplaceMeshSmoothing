@@ -2,7 +2,7 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![GitHub stars](https://img.shields.io/github/stars/mremilien/LaplaceMeshSmoothing.svg?style=social)](https://github.com/mremilien/LaplaceMeshSmoothing/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/chengkunli96/LaplaceMeshSmoothing.svg?style=social)](https://github.com/chengkunli96/LaplaceMeshSmoothing/stargazers)
 
 This repository is about Laplacian filtering in the context of mesh denoising. The main contributions are
 * compute the mean curvature of a mesh by Uniform Laplace and Cotangent Laplace respectively.
